@@ -1,0 +1,52 @@
+{
+    "umbi": [{
+        "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1643798904/attached_image/mari-ketahui-segudang-manfaat-talas-bagi-kesehatan.jpg",
+        "name": "Talas",
+        "skills":"umbi-umbian"
+    },{
+        "img": "https://cdn1-production-images-kly.akamaized.net/BekfBIT0yMHJpIxY-N60lX3zwXU=/1200x900/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3411829/original/011602500_1616733537-photo-1518977676601-b53f82aba655.jpg",
+        "name": "Kentang",
+        "skills":"umbi-umbian"
+    },{
+        "img": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/6/29/d3b2afb0-b267-4640-bb92-e3d44efbfa36.jpg",
+        "name": "uwi",
+        "skills":"umbi-umbian"
+    },{
+        "img": "https://cdn.idntimes.com/content-images/community/2020/07/pexels-photo-89247-67892ae36cee108cfdfe699ca06a7249.jpg",
+        "name": "Ubi Jalar",
+        "skills":"umbi-umbian"
+
+    },{
+        "img": "https://cdn.idntimes.com/content-images/community/2020/07/pexels-photo-1257075-bf76872813042bf5b69735039b3c60d7.jpeg",
+        "name": "Lobak",
+        "skills":"umbi-umbian"
+    },{
+        "img": "https://cdn.idntimes.com/content-images/community/2020/07/mashedcassava-gettyimages-636000716-5ae66590c5542e0039f5f487-4c7bda68aee0d8a1c471930b59b29860.jpg",
+        "name": "Singkong",
+        "skills":"umbi-umbian"
+    },{
+        "img": "https://cdn.idntimes.com/content-images/community/2020/07/penting-ini-dia-7-manfaat-bengkoang-untuk-kesehatan-tubuh-anda-075d44dc17d36d572e64f46074912d96.jpg",
+        "name": "Bengkoang",
+        "skills":"umbi-umbian" 
+    },{
+        "img": "https://cdn.idntimes.com/content-images/community/2020/07/pexels-photo-928251-c2ed1c80db5035c41d3045aeda678892.jpeg",
+        "name": "Bawang",
+        "skills":"umbi-umbian" 
+    },{
+        "img": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/sayur-kailan.jpg?resize=251%2C188&ssl=1",
+        "name": "Sawi",
+        "skills":"Sayuran" 
+    },{
+        "img": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/brokoli.jpg?resize=300%2C169&ssl=1",
+        "name": "Brokoli",
+        "skills":"Sayuran" 
+    },{
+        "img": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/red-spinach-benefits.jpg?resize=300%2C225&ssl=1",
+        "name": "Bayam Merah",
+        "skills":"Sayuran" 
+    },{
+        "img": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2019/12/kangkung.jpg?resize=300%2C213&ssl=1",
+        "name": "Kangkung",
+        "skills":"Sayuran" 
+    }]
+}
